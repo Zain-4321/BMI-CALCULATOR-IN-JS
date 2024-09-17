@@ -1,0 +1,38 @@
+body{
+    background-color: aqua;
+}
+.main{
+    height: 400px;
+    width: 350px;
+    border: 2px solid black;
+    position: relative;
+    top: 60px;
+    left: 450px;
+    text-align: center;
+    background-color: chartreuse;
+    
+}
+
+h1{
+    background-color: orangered;
+    width: 310px;
+    text-align: center;
+    position: relative;
+    left: 28px;
+    border-radius: 10px;
+}
+input{
+    width: 150px;
+    height: 20px;
+    margin: 15px;
+    font-size: 19px;
+    font-weight: 500;
+}
+
+button{
+    height: 30px;
+    width: 120px;
+    border-radius: 20px;
+    border: 2px solid red;
+    background-color: white;
+}
